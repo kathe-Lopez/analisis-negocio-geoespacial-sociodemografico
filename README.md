@@ -1,5 +1,12 @@
 # 🧘‍♀️ Análisis de Viabilidad – Centro de Bienestar Integral para Mujeres (Valdebebas, Madrid)
 
+![Status](https://img.shields.io/badge/Status-Finalizado-brightgreen)
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+![Python](https://img.shields.io/badge/Python-3.9-yellow?logo=python)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)
+![CARTO](https://img.shields.io/badge/CARTO-Builder-blue?logo=carto)
+![Excel](https://img.shields.io/badge/Excel-Data%20Analysis-green?logo=microsoft-excel)
+
 Este proyecto analiza la viabilidad de abrir un **Centro de Bienestar Integral para Mujeres** en el barrio de **Valdebebas (Madrid)**, utilizando datos demográficos, socioeconómicos y de competencia.  
 
 Se aplicaron técnicas de análisis geoespacial y visualización en **CARTO Builder**, junto con procesamiento previo en **Python** y **Excel**.
@@ -80,5 +87,10 @@ Existe una demanda potencial importante y **baja saturación de competencia dire
 - [Google My Maps](https://www.google.com/maps)  
 
 ---
-👩‍💻 **Autora**: Katherine López Ramírez  
-📅 Proyecto académico – 2025
+
+## 📄 Licencia  
+
+Este proyecto está bajo la **Licencia MIT** – ver el archivo [LICENSE](LICENSE) para más detalles.  
+
+**Autora:** © 2025 Katherine López Ramírez  
+📅 Proyecto – Marzo 2025  
