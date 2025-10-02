@@ -32,8 +32,8 @@ Identificar la zona óptima para abrir un centro de bienestar para mujeres adult
 
 ### II. Localización y competencia
 - Coordenadas del local potencial (Juan Antonio Samaranch 51).  
-- Centros de yoga, pilates, spas y terapias alternativas (Google My Maps, exportados en KML).  
-- Clasificación por tipo de negocio y ubicación exacta.  
+- Centros de yoga, pilates, spas y terapias alternativas recolectados de **Google My Maps**.  
+- Clasificación por tipo de negocio y exportación en KML para integración en CARTO. 
 
 ### III. Preparación de datos
 - Limpieza y cruce de datos en **Python** y **Excel**.  
