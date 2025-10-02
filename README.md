@@ -1,42 +1,84 @@
-# Análisis de Viabilidad – Centro de Bienestar Integral para Mujeres (Valdebebas, Madrid)
+# 🧘‍♀️ Análisis de Viabilidad – Centro de Bienestar Integral para Mujeres (Valdebebas, Madrid)
 
-Este proyecto analiza la viabilidad de abrir un centro de bienestar integral para mujeres en el barrio de Valdebebas (Madrid), utilizando datos demográficos, socioeconómicos y de competencia.  
-Se aplicaron técnicas de análisis geoespacial y visualización en **CARTO Builder** junto con procesamiento previo en **Python**.
+Este proyecto analiza la viabilidad de abrir un **Centro de Bienestar Integral para Mujeres** en el barrio de **Valdebebas (Madrid)**, utilizando datos demográficos, socioeconómicos y de competencia.  
 
-## Objetivo
-Identificar la zona óptima para abrir un centro de bienestar para mujeres adultas (25–55 años), considerando:
-- Perfil demográfico y nivel socioeconómico.
-- Nivel de competencia en un radio de 1 km.
-- Accesibilidad y entorno urbano.
-
-## 📊 Datos utilizados
-- **Demográficos y socioeconómicos**: Instituto Nacional de Estadística (INE), Geoportal del Ayuntamiento de Madrid.
-- **Localización y competencia**: Google My Maps, clasificación manual de centros de yoga, pilates, spas y terapias alternativas.
-- **Procesamiento**: Limpieza de datos en **Python y Excel**, exportación a **Shapefile** para carga en CARTO Builder.
-
-## 🛠️ Tecnologías
-- Python (pandas, geopandas)
-- Excel
-- CARTO Builder
-- Google My Maps
-
-## 🚀 Resultados
-- Identificación de un área con **23.690 mujeres de 25–55 años**, edad promedio 36–40 años.
-- Renta media anual de **19.019 €** → poder adquisitivo adecuado para servicios de bienestar.
-- Baja competencia directa: solo **1 centro en 600m**, ninguno enfocado exclusivamente en mujeres.
-- Zona con buena accesibilidad (Renfe y aparcamiento cercano).
-- Conclusión: **Valdebebas es una ubicación estratégica para la apertura del negocio.**
-
-## 📂 Estructura
-- `/docs` → Informe completo en PDF.
-- `/notebooks` → Procesamiento de datos en Python.
-- `/carto_visuals` → Capturas de los mapas en CARTO.
-
-## 📑 Referencias
-- [Instituto Nacional de Estadística (INE)](https://www.ine.es/)  
-- [Geoportal Ayuntamiento de Madrid](https://geoportal.madrid.es/)  
-- [Mapa de competencia en Google My Maps](https://www.google.com/maps/d/viewer?mid=1B-P284NCIO9TwaIVd0z-ku2ZYw-cOFA)
+Se aplicaron técnicas de análisis geoespacial y visualización en **CARTO Builder**, junto con procesamiento previo en **Python** y **Excel**.
 
 ---
-📌 Autora: **Katherine López Ramírez**  
-📍 Madrid, España – Abril 2025
+
+## 🎯 Objetivo
+
+Identificar la zona óptima para abrir un centro de bienestar para mujeres adultas (25–55 años), considerando:
+
+- Perfil demográfico y nivel socioeconómico.  
+- Nivel de competencia en un radio de 1 km.  
+- Accesibilidad y entorno urbano.  
+
+---
+
+## 📂 Datos utilizados
+
+### I. Demográficos y socioeconómicos
+- **Fuente**: Instituto Nacional de Estadística (INE), Geoportal del Ayuntamiento de Madrid.  
+- **Variables**: población femenina (25–55 años), renta media anual.  
+- **Nivel geográfico**: secciones censales.  
+
+### II. Localización y competencia
+- Coordenadas del local potencial (Juan Antonio Samaranch 51).  
+- Centros de yoga, pilates, spas y terapias alternativas (Google My Maps, exportados en KML).  
+- Clasificación por tipo de negocio y ubicación exacta.  
+
+### III. Preparación de datos
+- Limpieza y cruce de datos en **Python** y **Excel**.  
+- Exportación en **Shapefile** para visualización en CARTO.  
+- Estilización de capas con paletas personalizadas.  
+
+---
+
+## 🛠️ Tecnologías utilizadas
+
+- **Python** (pandas, geopandas)  
+- **Excel**  
+- **CARTO Builder**  
+- **Google My Maps**  
+
+---
+
+## 📊 Resultados principales
+
+### Datos demográficos y renta promedio
+![Datos Valdefuentes y Timón](data/images/datos_valdefuentes_timon.png)
+
+- Edad promedio: 36 (Valdefuentes) – 40 (Timón).  
+- Mujeres 25–55 años: 23.690 en total.  
+- Renta media anual: 21.249 € en Valdefuentes y 16.789 € en Timón.  
+
+### Mapa general de ubicación en Madrid
+![Mapa ubicación Valdebebas](data/images/mapa_valdebebas_ubicacion.png)
+
+### Competencia en la zona de Valdebebas
+![Mapa competencia Valdebebas](data/images/mapa_valdebebas_competencia.png)
+
+- Un solo centro de bienestar en un radio de 600m.  
+- 19 centros similares en un radio mayor de 1 km, pero sin especialización en mujeres.  
+- Buena accesibilidad (estación Renfe cercana y facilidad de aparcamiento).  
+
+---
+
+## 📌 Conclusión
+
+El análisis muestra que Valdebebas es una **zona en expansión** con un perfil poblacional y socioeconómico adecuado para un centro de bienestar enfocado en mujeres. 
+
+Existe una demanda potencial importante y **baja saturación de competencia directa**, lo que convierte a este proyecto en una **oportunidad estratégica de negocio**.  
+
+---
+
+## 📚 Bibliografía
+
+- [Instituto Nacional de Estadística (INE)](https://www.ine.es)  
+- [Geoportal del Ayuntamiento de Madrid](https://geoportal.madrid.es)  
+- [Google My Maps](https://www.google.com/maps)  
+
+---
+👩‍💻 **Autora**: Katherine López Ramírez  
+📅 Proyecto académico – 2025
