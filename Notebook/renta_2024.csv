@@ -1,0 +1,132 @@
+cod_distrito,distrito,cod_barrio,barrio,renta
+1,Centro,11,Palacio,19643
+1,Centro,12,Embajadores,14966
+1,Centro,13,Cortes,20256
+1,Centro,14,Justicia,23257
+1,Centro,15,Universidad,18874
+1,Centro,16,Sol,16914
+2,Arganzuela,21,Imperial,19941
+2,Arganzuela,22,Acacias,20922
+2,Arganzuela,23,Chopera,15686
+2,Arganzuela,24,Legazpi,21551
+2,Arganzuela,25,Delicias,19002
+2,Arganzuela,26,Palos de la Frontera,17840
+2,Arganzuela,27,Atocha,17236
+3,Retiro,31,Pacífico,20388
+3,Retiro,32,Adelfas,21266
+3,Retiro,33,Estrella,23885
+3,Retiro,34,Ibiza,22756
+3,Retiro,35,Los Jerónimos,27048
+3,Retiro,36,Niño Jesús,27208
+4,Salamanca,41,Recoletos,30437
+4,Salamanca,42,Goya,24441
+4,Salamanca,43,Fuente del Berro,20405
+4,Salamanca,44,Guindalera,22227
+4,Salamanca,45,Lista,24570
+4,Salamanca,46,Castellana,29796
+5,Chamartín,51,El Viso,31011
+5,Chamartín,52,Prosperidad,21153
+5,Chamartín,53,Ciudad Jardín,21188
+5,Chamartín,54,Hispanoamérica,27568
+5,Chamartín,55,Nueva España,29515
+5,Chamartín,56,Castilla,24733
+6,Tetuán,61,Bellas Vistas,14176
+6,Tetuán,62,Cuatro Caminos,21084
+6,Tetuán,63,Castillejos,22169
+6,Tetuán,64,Almenara,13812
+6,Tetuán,65,Valdeacederas,12712
+6,Tetuán,66,Berruguete,13290
+7,Chamberí,71,Gaztambide,22548
+7,Chamberí,72,Arapiles,22192
+7,Chamberí,73,Trafalgar,22464
+7,Chamberí,74,Almagro,28408
+7,Chamberí,75,Ríos Rosas,24543
+7,Chamberí,76,Vallehermoso,26345
+8,Fuencarral-El Pardo,81,El Pardo,16127
+8,Fuencarral-El Pardo,82,Fuentelarreina,30466
+8,Fuencarral-El Pardo,83,Peñagrande,19358
+8,Fuencarral-El Pardo,84,Pilar,15639
+8,Fuencarral-El Pardo,85,La Paz,23395
+8,Fuencarral-El Pardo,86,Valverde,17378
+8,Fuencarral-El Pardo,87,Mirasierra,25294
+8,Fuencarral-El Pardo,88,El Goloso,22764
+9,Moncloa-Aravaca,91,Casa de Campo,20409
+9,Moncloa-Aravaca,92,Argüelles,24479
+9,Moncloa-Aravaca,93,Ciudad Universitaria,25727
+9,Moncloa-Aravaca,94,Valdezarza,16073
+9,Moncloa-Aravaca,95,Valdemarín,31670
+9,Moncloa-Aravaca,96,El Plantío,31670
+9,Moncloa-Aravaca,97,Aravaca,25590
+10, Latina,101,Los Cármenes,12379
+10, Latina,102,Puerta del Ángel,12943
+10, Latina,103,Lucero,13195
+10, Latina,104,Aluche,13495
+10, Latina,105,Campamento,13258
+10, Latina,106,Cuatro Vientos,15308
+10, Latina,107,Águilas,13323
+11, Carabanchel,111,Comillas,13131
+11, Carabanchel,112,Opañel,12219
+11, Carabanchel,113,San Isidro,11331
+11, Carabanchel,114,Vista Alegre,11310
+11, Carabanchel,115,Puerta Bonita,10273
+11, Carabanchel,116,Buenavista,12884
+11, Carabanchel,117,Abrantes,11034
+12, Usera,121,Orcasitas,11301
+12, Usera,122,Orcasur,9692
+12, Usera,123,San Fermín,10067
+12, Usera,124,Almendrales,10646
+12, Usera,125,Moscardó,10771
+12, Usera,126,Zofío,10022
+12, Usera,127,Pradolongo,8417
+13, Puente de Vallecas,131,Entrevías,9262
+13, Puente de Vallecas,132,San Diego,8941
+13, Puente de Vallecas,133,Palomeras Bajas,12097
+13, Puente de Vallecas,134,Palomeras Sureste,11423
+13, Puente de Vallecas,135,Portazgo,10123
+13, Puente de Vallecas,136,Numancia,10566
+14, Moratalaz,141,Pavones,13960
+14, Moratalaz,142,Horcajo,17103
+14, Moratalaz,143,Marroquina,17722
+14, Moratalaz,144,Media Legua,15706
+14, Moratalaz,145,Fontarrón,12452
+14, Moratalaz,146,Vinateros,13897
+15, Ciudad Lineal,151,Ventas,13089
+15, Ciudad Lineal,152,Pueblo Nuevo,12987
+15, Ciudad Lineal,153,Quintana,14291
+15, Ciudad Lineal,154,Concepción,16816
+15, Ciudad Lineal,155,San Pascual,19232
+15, Ciudad Lineal,156,San Juan Bautista,24621
+15, Ciudad Lineal,157,Colina,22739
+15, Ciudad Lineal,158,Atalaya,28605
+15, Ciudad Lineal,159,Costillares,25900
+16, Hortaleza,161,Palomas,29357
+16, Hortaleza,162,Piovera,29758
+16, Hortaleza,163,Canillas,17487
+16, Hortaleza,164,Pinar del Rey,15095
+16, Hortaleza,165,Apóstol Santiago,15685
+16, Hortaleza,166,Valdefuentes,21249
+17, Villaverde,171,"Villaverde Alto, Casco Histórico de Villaverde",10056
+17, Villaverde,172,San Cristóbal,6916
+17, Villaverde,173,Butarque,11666
+17, Villaverde,174,Los Rosales,11064
+17, Villaverde,175,Ángeles,11982
+18, Villa de Vallecas,181,Casco Histórico de Vallecas,10236
+18, Villa de Vallecas,182,Santa Eugenia,14894
+18, Villa de Vallecas,183,Ensanche de Vallecas,14540
+19, Vicálvaro,191,Casco Histórico de Vicálvaro,10586
+19, Vicálvaro,192,Valdebernardo,15055
+19, Vicálvaro,193,Valderrivas,15515
+19, Vicálvaro,194,El Cañaveral,15673
+20,San Blas-Canillejas,201,Simancas,13780
+20,San Blas-Canillejas,202,Hellín,10622
+20,San Blas-Canillejas,203,Amposta,9354
+20,San Blas-Canillejas,204,Arcos,12206
+20,San Blas-Canillejas,205,Rosas,17154
+20,San Blas-Canillejas,206,Rejas,16454
+20,San Blas-Canillejas,207,Canillejas,13124
+20,San Blas-Canillejas,208,El Salvador,22115
+21, Barajas,211,Alameda de Osuna,21309
+21, Barajas,212,Aeropuerto,10556
+21, Barajas,213,Casco Histórico de Barajas,13245
+21, Barajas,214,Timón,16789
+21, Barajas,215,Corralejos,25412

@@ -1,0 +1,460 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Centro de bienestar integral para mujeres</name>
+    <Style id="icon-1899-006064-labelson-nodesc">
+      <IconStyle>
+        <color>ff646000</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-097138-labelson-nodesc">
+      <IconStyle>
+        <color>ff387109</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-labelson-nodesc">
+      <IconStyle>
+        <color>ff589d0f</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-1A237E-labelson-nodesc">
+      <IconStyle>
+        <color>ff7e231a</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-4E342E-labelson-nodesc">
+      <IconStyle>
+        <color>ff2e344e</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-558B2F-labelson-nodesc">
+      <IconStyle>
+        <color>ff2f8b55</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-795548-labelson-nodesc">
+      <IconStyle>
+        <color>ff485579</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-7CB342-labelson-nodesc">
+      <IconStyle>
+        <color>ff42b37c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-817717-labelson-nodesc">
+      <IconStyle>
+        <color>ff177781</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-9C27B0-labelson-nodesc">
+      <IconStyle>
+        <color>ffb0279c</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-A52714-labelson-nodesc">
+      <IconStyle>
+        <color>ff1427a5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-AFB42B-labelson-nodesc">
+      <IconStyle>
+        <color>ff2bb4af</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-C2185B-labelson-nodesc">
+      <IconStyle>
+        <color>ff5b18c2</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-F57C00-labelson-nodesc">
+      <IconStyle>
+        <color>ff007cf5</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-F9A825-labelson-nodesc">
+      <IconStyle>
+        <color>ff25a8f9</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FBC02D-labelson-nodesc">
+      <IconStyle>
+        <color>ff2dc0fb</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FF5252-labelson-nodesc">
+      <IconStyle>
+        <color>ff5252ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-labelson-nodesc">
+      <IconStyle>
+        <color>ff00d6ff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FFEA00-labelson-nodesc">
+      <IconStyle>
+        <color>ff00eaff</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Placemark>
+      <name>Instituto de Bienestar</name>
+      <styleUrl>#icon-1899-817717-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6706514,40.4824926,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Centro Bienestar</name>
+      <styleUrl>#icon-1899-FFEA00-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.675669,40.459915,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Espacio Bambú</name>
+      <styleUrl>#icon-1899-795548-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6454567,40.4411578,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YogaOne Auditorio</name>
+      <styleUrl>#icon-1899-7CB342-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6726317,40.4476025,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Espacio Kendra</name>
+      <styleUrl>#icon-1899-0F9D58-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6753329,40.4458471,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gimnasio Infinit Fitness Valdebebas</name>
+      <styleUrl>#icon-1899-FBC02D-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.61748,40.494331,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Experiencia Boa Vida</name>
+      <styleUrl>#icon-1899-558B2F-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6232069,40.4943119,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gloves Valdebebas</name>
+      <styleUrl>#icon-1899-C2185B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6109695,40.4906251,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Sawabona Holistic Center</name>
+      <styleUrl>#icon-1899-FFD600-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6087672,40.4879702,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nine Fitness + spAce Valdebebas</name>
+      <styleUrl>#icon-1899-AFB42B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6162899,40.485244,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clínica Fisioeme | Valdebebas (Av. Manuel Fraga Iribarne)</name>
+      <styleUrl>#icon-1899-4E342E-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6087738,40.4884006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>YOGA LA MORALEJA</name>
+      <styleUrl>#icon-1899-FF5252-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6542754,40.5189351,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Valdebebas</name>
+      <styleUrl>#icon-1899-F9A825-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6160683,40.4820698,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Luci's Fithouse Valdebebas - Pilates Máquinas Grupal]]></name>
+      <styleUrl>#icon-1899-1A237E-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6067901,40.4902657,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name><![CDATA[Luci's Fithouse Valdebebas - Fisioterapia, Barré & Pilates Máquinas Individual]]></name>
+      <styleUrl>#icon-1899-F57C00-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6075365,40.490755,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clínica Fisioeme | Valdebebas (Av. Manuel Fraga Iribarne)</name>
+      <styleUrl>#icon-1899-4E342E-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6087738,40.4884006,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gimnasio Infinit Fitness Valdebebas</name>
+      <styleUrl>#icon-1899-FBC02D-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.61748,40.494331,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Nine Fitness + spAce Valdebebas</name>
+      <styleUrl>#icon-1899-AFB42B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6162898,40.4852441,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Gloves Valdebebas</name>
+      <styleUrl>#icon-1899-C2185B-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6109695,40.4906251,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Health Club SL</name>
+      <styleUrl>#icon-1899-006064-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6066745,40.4929839,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Diversabox Valdebebas</name>
+      <styleUrl>#icon-1899-A52714-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6069981,40.4909708,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>Clínica Fisioeme | Valdebebas</name>
+      <styleUrl>#icon-1899-097138-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6150585,40.485967,0
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <name>TRIB3 Valdebebas</name>
+      <styleUrl>#icon-1899-9C27B0-labelson-nodesc</styleUrl>
+      <Point>
+        <coordinates>
+          -3.6067915,40.4882761,0
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
